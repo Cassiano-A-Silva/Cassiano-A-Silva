@@ -5,7 +5,7 @@
 - 👨‍💻 I’m looking to collaborate on PAN Academy
 - 🤔 I'm looking for help getting my first job as a programmer
 - 📫 How to reach me: cassianoas@hotmail.com
-- 😄 Pronouns: Ele/Dele/He/His
+- 😄 Pronouns: Ele/Dele/He/His.
 
 <div align="center">
   <a href="https://github.com/Cassiano-A-Silva">
